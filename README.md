@@ -7,8 +7,15 @@
 - **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spark
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Git, Docker
 
+### :computer: Technologies I Love
+- **Mobile Apps**
+- **Machine Learning**
+- **Data Science**
+- **Frontend and Backend Web Development**
+
 ### Hackathon participation 💻
-- [data4good](https://dataforgood.be/) @ Data 4 Good Challenge 2023
+- **[data4good](https://dataforgood.be/) @ Data 4 Good Challenge 2023**
+
 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mendoce24&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mendoce24&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mendoce24&theme=nord_dark) |
